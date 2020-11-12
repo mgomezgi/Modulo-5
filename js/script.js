@@ -89,7 +89,7 @@ $ajaxUtils.sendGetRequest(
   //function (buildAndShowHomeHTML) { 
   //   document.querySelector("#main-content")
   //  .innerHTML = responseText;
-  //  } 
+  //  }
   true); // Explicitly setting the flag to get JSON from server processed into an object literal
 });
 // *** finish **
